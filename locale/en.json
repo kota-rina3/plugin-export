@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Export plugins",
+    "description": "Adds an Export button on the Plugins page to export selected installed plugins as installable bundles.",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "导出插件",
+    "description": "在插件页面新增“导出”入口，支持选择需要导出的插件。",
+    "detail": "docs/DETAIL.md"
+  }
+}
